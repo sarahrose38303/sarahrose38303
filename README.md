@@ -5,7 +5,7 @@ Bachelor of Science in Computing and Security Technology | SFS CyberCorps Schola
 
 Hello, I am a cybersecurity specialist in remote projects and local/state/federal government opportunities. I am interested in full-time positions starting after June of 2024 as I am currently in university.
 
-Check out my LinkedIn to see my work experience and connect or follow me for cybersecurity tips and resources! 
+Check out my LinkedIn to see my work experience and follow me (or connect) for cybersecurity tips and resources! 
   * https://www.linkedin.com/in/sarahrose38303/
 
 _"Technology isn't a villain. Technology should help, but if you just use the technology for the sake of technology, then you're cheating your audience,"_ -Stan Lee
