@@ -1,16 +1,23 @@
-### Hi there 👋
+# Introduction
+Bachelor of Science in Computing and Security Technology | SFS CyberCorps Scholar
+
+**Drexel University 2024**💛💙🐲
+
+Hello, I am a cybersecurity specialist in remote projects and local/state/federal government opportunities. I am interested in full-time positions starting after June of 2024 as I am currently in university.
+
+Check out my LinkedIn to see my work experience and connect or follow me for cybersecurity tips and resources! 
+  * https://www.linkedin.com/in/sarahrose38303/
+
+_"Technology isn't a villain. Technology should help, but if you just use the technology for the sake of technology, then you're cheating your audience,"_ -Stan Lee
 
 <!--
-**sarahrose38303/sarahrose38303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: ...
 -->
